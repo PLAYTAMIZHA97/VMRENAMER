@@ -1,6 +1,6 @@
 services:
-  - type: web
-    plan: free-ᴩʀᴇᴍɪᴜᴍ
+  - type: ᴡᴇʙ
+    plan: ꜰʀᴇᴇ-ᴩʀᴇᴍɪᴜᴍ
     name: ᴠᴍ-ʀᴇɴᴀᴍᴇʀ-ʙᴏᴛ
     env: python
     buildCommand: pip install -r requirements.txt
